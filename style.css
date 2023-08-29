@@ -1,0 +1,20 @@
+img{
+    width: 40px;
+    height: 40px;
+}
+#img{
+
+    min-width: auto;
+    height: 90px;
+}
+
+#feedback{
+    background-color: #0d0442;
+    padding: 7% 10%;
+}
+#hr-style{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 50px;
+   margin-top: 50px;
+}
